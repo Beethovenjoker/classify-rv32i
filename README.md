@@ -1,4 +1,22 @@
 # Assignment 2: Classify
+                                                
+                        ,--.         ,--.        
+   ,---,              ,--.'|       ,--.'|        
+  '  .' \         ,--,:  : |   ,--,:  : |        
+ /  ;    '.    ,`--.'`|  ' :,`--.'`|  ' :        
+:  :       \   |   :  :  | ||   :  :  | |        
+:  |   /\   \  :   |   \ | ::   |   \ | :        
+|  :  ' ;.   : |   : '  '; ||   : '  '; |        
+|  |  ;/  \   \'   ' ;.    ;'   ' ;.    ;        
+'  :  | \  \ ,'|   | | \   ||   | | \   |        
+|  |  '  '--'  '   : |  ; .''   : |  ; .'        
+|  :  :        |   | '`--'  |   | '`--'          
+|  | ,'        '   : |      '   : |              
+`--''          ;   |.'      ;   |.'              
+               '---'        '---'                
+                                             
+## Advisor
+Jserv (Ching-Chun Huang)
 ## Introduction
 I will implement various matrix and vector operations, such as matrix multiplication. These functions will serve as the building blocks for constructing a simple Artificial Neural Network (ANN) capable of classifying handwritten digits. 
 ### Note
