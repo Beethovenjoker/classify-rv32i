@@ -29,6 +29,11 @@ $$dot(a,b) = \Sigma_{i=0}^{n-1} (a_i,b_j)$$
 2. Calculate offset for current element in second array.
 3. Multiply the two values and add to result accumulator.
 
+### Task 3.2: Matrix Multiplication
+$$C[i][j]=dot(A[i],B[:,j])$$
+1. inner_loop_end: Calculate the address of the next row.
+2. outer_loop_end: Restore the stack.
+
 ## Part B : File Operations and Main
 ### Task 1: Read Matrix
 1. Replace the ``mul`` instructions with the RV32I.
@@ -36,7 +41,7 @@ $$dot(a,b) = \Sigma_{i=0}^{n-1} (a_i,b_j)$$
 ### Task 2: Write Matrix
 1. Replace the ``mul`` instructions with the RV32I.
 
-## Task 3: Classification
+### Task 3: Classification
 1. Matrix Multiplication:
 **hidden_layer = matmul(m0,input)**
 2. ReLU Activation:
