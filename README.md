@@ -6,7 +6,7 @@ I use ChatGPT 4.0 to enhance the expressiveness of my English and to add clear, 
 [Assignment2: Complete Applications](https://hackmd.io/igwvkHa1TMyvtc_bcri4Lg)
 ## Part A : Mathematical Functions
 ### Task 0: Multiply
-1. Extract their signsfirst.
+1. Extract their signs first.
 2. Then, sort them to reduce the number of additions needed.
 3. Use addition to perform multiplication.
 4. Finally, combine the sign with the value.
@@ -36,10 +36,10 @@ $$C[i][j]=dot(A[i],B[:,j])$$
 
 ## Part B : File Operations and Main
 ### Task 1: Read Matrix
-1. Replace the ``mul`` instructions with the RV32I.
+1. Replace the ``mul`` instruction with the RV32I instructions.
 
 ### Task 2: Write Matrix
-1. Replace the ``mul`` instructions with the RV32I.
+1. Replace the ``mul`` instruction with the RV32I instructions.
 
 ### Task 3: Classification
 1. Matrix Multiplication:
