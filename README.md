@@ -1,5 +1,5 @@
 # Assignment 2: Classify
-The RISC-V calling convention is crucial in this HW2, so I’ve spent most of my time learning and implementing it, especially with regard to the stack.
+The RISC-V calling convention is crucial in this HW2, so I’ve spent most of my time learning and implementing it.
 ## Warning!!
 I use ChatGPT 4.0 to enhance the expressiveness of my English and to add clear, insightful comments to my code.
 ## HackMD
