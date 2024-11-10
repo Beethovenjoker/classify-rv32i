@@ -9,14 +9,19 @@
 ```
 ## Advisor
 Jserv (Ching-Chun Huang)
+
 ## Introduction
 I will implement various matrix and vector operations, such as matrix multiplication. These functions will serve as the building blocks for constructing a simple Artificial Neural Network (ANN) capable of classifying handwritten digits. 
+
 ### Note
 The RISC-V calling convention is crucial in this HW2, so I’ve spent most of my time learning and implementing it.
+
 ### Warning!!
 I use ChatGPT 4.0 to enhance the expressiveness of my English and to add clear, insightful comments to my code.
+
 ### HackMD
 [Assignment2: Complete Applications](https://hackmd.io/igwvkHa1TMyvtc_bcri4Lg)
+
 ## Part A : Mathematical Functions
 ### Task 0: Multiply
 1. Extract their signs first.
@@ -113,9 +118,22 @@ test_write_1 (__main__.TestWriteMatrix) ... ok
 test_write_fail_fclose (__main__.TestWriteMatrix) ... ok
 test_write_fail_fopen (__main__.TestWriteMatrix) ... ok
 test_write_fail_fwrite (__main__.TestWriteMatrix) ... ok
-
 ----------------------------------------------------------------------
 Ran 46 tests in 176.965s
+```
+
+## Reference
+- [Assignment2: Complete Applications](https://hackmd.io/@sysprog/2024-arch-homework2)
+- [CMU CS61C](https://cs61c.org/fa24/labs/lab03/)
+
+
+
+
+
+
+
+
+
 
 OK
 ```
