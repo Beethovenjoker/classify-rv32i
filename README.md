@@ -120,20 +120,9 @@ test_write_fail_fopen (__main__.TestWriteMatrix) ... ok
 test_write_fail_fwrite (__main__.TestWriteMatrix) ... ok
 ----------------------------------------------------------------------
 Ran 46 tests in 176.965s
+OK
 ```
 
 ## Reference
 - [Assignment2: Complete Applications](https://hackmd.io/@sysprog/2024-arch-homework2)
 - [CMU CS61C](https://cs61c.org/fa24/labs/lab03/)
-
-
-
-
-
-
-
-
-
-
-OK
-```
