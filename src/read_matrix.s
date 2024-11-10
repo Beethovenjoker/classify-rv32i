@@ -256,4 +256,3 @@ endMulLoop:
     addi sp, sp, 20
     
     ret
-    

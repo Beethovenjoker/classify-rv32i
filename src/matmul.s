@@ -139,8 +139,6 @@ outer_loop_end:
     # Return from the matmul function
     ret
 
-
-
 error:
     li a0, 38
     j exit
