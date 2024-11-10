@@ -1,8 +1,11 @@
 # Assignment 2: Classify
+## Introduction
+I will implement various matrix and vector operations, such as matrix multiplication. These functions will serve as the building blocks for constructing a simple Artificial Neural Network (ANN) capable of classifying handwritten digits. 
+### Note
 The RISC-V calling convention is crucial in this HW2, so I’ve spent most of my time learning and implementing it.
-## Warning!!
+### Warning!!
 I use ChatGPT 4.0 to enhance the expressiveness of my English and to add clear, insightful comments to my code.
-## HackMD
+### HackMD
 [Assignment2: Complete Applications](https://hackmd.io/igwvkHa1TMyvtc_bcri4Lg)
 ## Part A : Mathematical Functions
 ### Task 0: Multiply
