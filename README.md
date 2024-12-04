@@ -1,4 +1,4 @@
-# Assignment 2: Classify
+# Assignment 2: Neural Network
 ```
              _   _   _   _            _____   __      __  ____    ___    _____ 
      /\     | \ | | | \ | |          |  __ \  \ \    / / |___ \  |__ \  |_   _|
@@ -20,7 +20,7 @@ The RISC-V calling convention is crucial in this HW2, so I’ve spent most of my
 I use ChatGPT 4.0 to enhance the expressiveness of my English and to add clear, insightful comments to my code.
 
 ### HackMD
-[Assignment2: Complete Applications](https://hackmd.io/igwvkHa1TMyvtc_bcri4Lg)
+[Assignment2: Neural Network](https://hackmd.io/igwvkHa1TMyvtc_bcri4Lg)
 
 ## Part A : Mathematical Functions
 ### Task 0: Multiply
