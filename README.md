@@ -1,4 +1,4 @@
-# Assignment 2: Neural Network
+# Assignment 2: Artificial Neural Network
 ```
              _   _   _   _            _____   __      __  ____    ___    _____ 
      /\     | \ | | | \ | |          |  __ \  \ \    / / |___ \  |__ \  |_   _|
